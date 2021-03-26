@@ -9,7 +9,7 @@ Escribe un programa que contenga las siguientes variables:
 
 El programa deberá mostrar en pantalla todos los valores.
 
-# Solución
+## Solución
 
 ```python
 nombre = "Michael Jordan"
@@ -26,7 +26,7 @@ Actividad: {activo}""")
 
 Escribe un programa que solicite el nombre, DNI y edad, lo almacene en 3 variables distintas y muestre por pantalla los valores introducidos.
 
-# Solución
+## Solución
 
 ```python
 nombre = input("Introduce tu nombre: ")
@@ -46,7 +46,7 @@ Escribe un programa que genere un string compuesto por los primeros 3 caracteres
 - Ejemplo 2: 'escribiendo código'
 - Resultado 2: 'escigo'
 
-# Solución
+## Solución
 
 ```python
 frase = input("Introduce un frase: ")
@@ -63,7 +63,7 @@ Escribe un programa que solicite al usuario dos números y una frase. El primer 
 - Ejemplo 2: Posicion=8, Longitud=11, Frase='Bienvenido a la clase de programación'
 - Resultado 2: "do a la cla"
 
-# Solución
+## Solución
 
 ```python
 n1 = int(input("Introduce un número: "))
@@ -80,7 +80,7 @@ Escribe un programa que solicite al usuario una frase. A continuación le solici
 - Ejemplo: 'Desarrollar es mi nuevo pasatiempos', 'a','e'
 - Resultado: 4 apariciones. 'Deserroller es mi nueve pesetiempos'
 
-# Solución
+## Solución
 
 ```python
 frase = input("Introduce una frase: ")
