@@ -34,7 +34,7 @@ Escribe un programa que solicite dos números enteros al usuario y muestre por p
 ```
 Introduce el número de inicio: 4
 Introduce el número de fin: 8
-El resultado es:  30
+El resultado es: 30
 ```
 
 ## Solución
@@ -154,7 +154,7 @@ Introduce un número: -10
 Introduce un número: 2
 Introduce un número: 14
 Introduce un número: 7
-El número más alto es:  14
+El número más alto es: 14
 ```
 
 ## Solución
